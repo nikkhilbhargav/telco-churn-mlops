@@ -9,8 +9,7 @@ venv/
 mlruns/
 mlflow.db
 
-artifacts/*.pkl
-artifacts/*.json
+
 
 .ipynb_checkpoints/
 
